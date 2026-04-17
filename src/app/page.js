@@ -69,12 +69,12 @@ const needAttention = posts.filter(
                   className="bg-white rounded-xl shadow shadow-gray-300 hover:scale-105 hover:cursor-pointer p-5 text-center"
                 >
                   <img
-                    src={post.picture}
-                    alt={post.name}
+                    src={post?.picture}
+                    alt={post?.name}
                     className="w-20 h-20 rounded-full mx-auto"
                   />
 
-                  <h3 className="text-lg font-semibold mt-3">{post.name}</h3>
+                  <h3 className="text-lg font-semibold mt-3">{post?.name}</h3>
                   <p className="text-gray-500 text-sm">
                     {post.days_since_contact}d ago
                   </p>
@@ -92,14 +92,14 @@ const needAttention = posts.filter(
                   <div className="mt-3">
                     <span
                       className={`px-3 py-1 text-sm rounded-full ${
-                        post.status === "overdue"
+                        post?.status === "overdue"
                           ? "bg-red-500 text-white"
-                          : post.status === "almost_due"
+                          : post?.status === "almost_due"
                           ? "bg-yellow-400 text-white"
                           : "bg-green-600 text-white"
                       }`}
                     >
-                      {post.status}
+                      {post?.status}
                     </span>
                   </div>
                 </Link>

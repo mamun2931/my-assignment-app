@@ -6,8 +6,7 @@ export const dynamic = 'force-dynamic';
 export default async function Home() {
      const res = await fetch("https://my-assignment-app-tau.vercel.app/data.json");
     const posts = await res.json()
-    // console.log(posts)
-
+    
     const total = posts.length;
 const onTrack = posts.filter(p => p.status === "on_track").length;
 const needAttention = posts.filter(

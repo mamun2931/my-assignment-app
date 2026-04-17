@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "david@example.com",
+    "days_since_contact": 62,
+    "status": "almost_due",
+    "tags": ["work"],
+    "bio": "Colleague from office.",
+    "goal": 60,
+    "next_due_date": "2025-08-01"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "emma@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["family"],
+    "bio": "Cousin, very close.",
+    "goal": 30,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "lisa@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["work"],
+    "bio": "Worked together in a project.",
+    "goal": 45,
+    "next_due_date": "2025-07-10"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://randomuser.me/api/portraits/men/76.jpg",
+    "email": "james@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["hobby", "travel"],
+    "bio": "Travel buddy.",
+    "goal": 20,
+    "next_due_date": "2025-07-05"
+  },
+  {
+    "id": 5,
+    "name": "Sophia Lee",
+    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "email": "sophia@example.com",
+    "days_since_contact": 20,
+    "status": "on_track",
+    "tags": ["family"],
+    "bio": "Younger sister.",
+    "goal": 30,
+    "next_due_date": "2025-08-10"
+  },
+  {
+    "id": 6,
+    "name": "Michael Brown",
+    "picture": "https://randomuser.me/api/portraits/men/55.jpg",
+    "email": "michael@example.com",
+    "days_since_contact": 10,
+    "status": "on_track",
+    "tags": ["work"],
+    "bio": "Team lead.",
+    "goal": 15,
+    "next_due_date": "2025-08-05"
+  },
+  {
+    "id": 7,
+    "name": "Olivia Smith",
+    "picture": "https://randomuser.me/api/portraits/women/25.jpg",
+    "email": "olivia@example.com",
+    "days_since_contact": 50,
+    "status": "almost_due",
+    "tags": ["college"],
+    "bio": "University friend.",
+    "goal": 60,
+    "next_due_date": "2025-07-25"
+  },
+  {
+    "id": 8,
+    "name": "Daniel Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/90.jpg",
+    "email": "daniel@example.com",
+    "days_since_contact": 5,
+    "status": "on_track",
+    "tags": ["gym"],
+    "bio": "Gym partner.",
+    "goal": 10,
+    "next_due_date": "2025-08-15"
+  }
+]

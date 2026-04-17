@@ -14,4 +14,3 @@ The **Relationship Tracker** is a responsive web application designed to help yo
 ##  3 Key Features
 1. **Friend Management System**: Browse a comprehensive dashboard of your connections displaying vital metrics like tags, profile pictures, and dynamic statuses.
 2. **Interactive Check-in & Detailed Views**: Navigate to individual friend profiles to view connection history, interact through check-ins, and seamlessly update your last contact schedules.
-3. **Analytics & Timeline**: Monitor your social health through centralized statistics and visual timelines of interaction history.
